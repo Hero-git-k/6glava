@@ -1,0 +1,11 @@
+C:\Users\student\source\repos\AfanasevGlava6\AfanasevGlava6\bin\Debug\AfanasevGlava6.exe.config
+C:\Users\student\source\repos\AfanasevGlava6\AfanasevGlava6\bin\Debug\AfanasevGlava6.exe
+C:\Users\student\source\repos\AfanasevGlava6\AfanasevGlava6\bin\Debug\AfanasevGlava6.pdb
+C:\Users\student\source\repos\AfanasevGlava6\AfanasevGlava6\obj\Debug\AfanasevGlava6.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\AfanasevGlava6\AfanasevGlava6\obj\Debug\AfanasevGlava6.Form1.resources
+C:\Users\student\source\repos\AfanasevGlava6\AfanasevGlava6\obj\Debug\AfanasevGlava6.Properties.Resources.resources
+C:\Users\student\source\repos\AfanasevGlava6\AfanasevGlava6\obj\Debug\AfanasevGlava6.csproj.GenerateResource.cache
+C:\Users\student\source\repos\AfanasevGlava6\AfanasevGlava6\obj\Debug\AfanasevGlava6.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\AfanasevGlava6\AfanasevGlava6\obj\Debug\AfanasevGlava6.exe
+C:\Users\student\source\repos\AfanasevGlava6\AfanasevGlava6\obj\Debug\AfanasevGlava6.pdb
+C:\Users\student\source\repos\AfanasevGlava6\AfanasevGlava6\obj\Debug\AfanasevGlava6.Form2.resources
